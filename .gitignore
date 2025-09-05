@@ -16,3 +16,5 @@ Thumbs.db
 # Logs
 *.log
 
+# Local git credentials (do not commit)
+.git-credentials
